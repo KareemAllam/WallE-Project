@@ -7,8 +7,6 @@ from numpy import *
 def draw():
     glClearColor(1, 1, 1, 1)
     glClear(GL_COLOR_BUFFER_BIT)
-
-
 #--------------------------------
 #Backgroun Circle
     glBegin(GL_POLYGON)
